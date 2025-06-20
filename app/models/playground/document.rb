@@ -8,6 +8,8 @@ module Playground
       @content = content
     end
 
+    private
+
     def each
       words_of_content.each { |word| yield word }
     end
