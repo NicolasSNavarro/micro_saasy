@@ -49,4 +49,4 @@ end
 
 gem "acts_as_tenant", "~> 1.0"
 gem "dry-monads", "~> 1.8"
-gem "view_component", "~> 3.23"
+gem "view_component", "~> 4.0"
